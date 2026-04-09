@@ -102,14 +102,6 @@ The DSS converts analytical insights into actionable decisions.
 
 ## 8. Output
 
-The system generates a structured output file:
-
-```
-output/final_project_output.csv
-```
-
-This file contains:
-
 * Risk classification for each employee
 * Recommended actions
 
