@@ -64,6 +64,9 @@ The dataset contains employee-level information used for analytics and decision-
 
 The Power BI dashboard provides a comprehensive view of workforce performance and risk.
 <img width="1713" height="801" alt="Screenshot 2026-04-08 204201" src="https://github.com/user-attachments/assets/8442db8b-2bdd-4709-be03-869d782e1581" />
+<img width="1680" height="790" alt="image" src="https://github.com/user-attachments/assets/df67da30-9723-4eb4-8518-f428dedcabf6" />
+
+
 
 
 ### Key Components:
