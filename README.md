@@ -1,5 +1,3 @@
-# AI-HR-analytics-project
-AI-driven HR analytics dashboard and decision support system for employee risk analysis
 # AI-Driven HR Analytics and Decision Support System
 
 ## 1. Project Overview
@@ -114,28 +112,14 @@ This file contains:
 
 ---
 
-## 9. Project Structure
-
-```
-ai-hr-analytics-project
- ├── data
- ├── dashboard
- ├── notebooks
- ├── src
- ├── output
- ├── README.md
- └── requirements.txt
-```
-
----
-
 ## 10. How to Run
 
 1. Open the notebook in Google Colab
-2. Run all cells sequentially
-3. Generate output CSV
-4. Open Power BI dashboard file
-5. Explore insights and filters
+2. https://colab.research.google.com/drive/1HO3ld3nSfk7jQGZ3ETORP1fKws8SwffS
+3. Run all cells sequentially
+4. Generate output CSV
+5. Open Power BI dashboard file
+6. Explore insights and filters
 
 ---
 
